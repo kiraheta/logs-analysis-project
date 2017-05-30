@@ -47,4 +47,4 @@ Check if Vagrant is successfully installed by running on terminal.
 
 If module runs successfully, you will see the following output:
 
-![output](logs-analysis-project/output.png)
+![output](https://github.com/kiraheta/logs-analysis-project/blob/master/output.png)
