@@ -37,7 +37,7 @@ def get_most_popular_articles():
                 """
     c.execute(sql_query)
     print("Most popular 3 articles from highest to lowest: ")
-    rank = 0
+    rank = 1
     for article in c:
         print (str(rank) + '. ' + article[0])
         rank += 1
