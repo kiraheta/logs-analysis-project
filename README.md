@@ -21,10 +21,10 @@ Check if Vagrant is successfully installed by running on terminal.
 1. Download or Clone the repository
 ```git clone https://github.com/kiraheta/logs-analysis-project.git```
 
-3. ```cd``` into directory **FSND-Virtual-Machine**. Inside, you will find another directory called **vagrant**. Change directory into the vagrant directory
+3. ```cd``` into directory **logs-analysis-project**.
 
 ### Running the VM
-1. Inside the vagrant subdirectory, run the command
+1. Inside the subdirectory, run the command
 ```vagrant up```. Doing so will download & install the Linux OS.
 
 2. Once ```vagrant up``` is completed and your shell prompt returns, run ```vagrant ssh``` to log into newly installed Linux OS.
